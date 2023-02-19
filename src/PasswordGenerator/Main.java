@@ -19,7 +19,7 @@ public class Main {
         EngineV2.number = true;
         EngineV2.symbol = false;
         EngineV2.generatePassword();*/
-        new ProgramFrame(); //starts the UI
+        //new ProgramFrame(); //starts the UI
 
         //v3
         /*EngineV3 passwordGen = new EngineV3.EngineV3Builder()
@@ -31,7 +31,7 @@ public class Main {
         String pw = passwordGen.generate(4);
         System.out.println(pw);*/
         //_______________________________________________
-        //new Word_Finder(); //starts the Word Finder program
+        new Word_Finder(); //starts the Word Finder program
         //new Repeating_Character(); //starts the program that is looking for a repeating characters
 
         /*new Password_Reader(); // analyzes a strength of a user's password
