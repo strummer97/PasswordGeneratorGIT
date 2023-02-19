@@ -10,7 +10,7 @@ public class Word_Finder {
                 * words, it will pick the longest one*/
        public Word_Finder() throws IOException {
 
-        String inputStr = "dayappendixвертолётsirlдпенісвоо".toUpperCase(); //reads the password
+        String inputStr = "nuclearweaponзапальничка".toUpperCase(); //reads the password
         boolean hasWord = false; //shows if the input string contains a dictionary word
         String[] fileWords;
         String wordFound = null;
