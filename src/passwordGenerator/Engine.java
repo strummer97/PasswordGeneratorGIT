@@ -1,4 +1,4 @@
-package PasswordGenerator;
+package passwordGenerator;
 
 import java.util.Scanner;
 

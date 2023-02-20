@@ -1,4 +1,4 @@
-package PwStrength;
+package pwStrength;
 
 import java.util.Locale;
 
@@ -12,7 +12,7 @@ public class Repeating_Character {
     static boolean charIsRepeating = false;
 
    public Repeating_Character(){
-        String str = "abAb1яясссb77dr".toLowerCase(Locale.ROOT);
+        String str = "abAb1яяuuuuuuuuuuсссb77dr".toLowerCase(Locale.ROOT);
         //System.out.println("Max repeating character is: "+maxRepeating(str));
         maxRepeating(str);
         System.out.println("It is repeated "+repeat_count+" time(s)");

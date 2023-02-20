@@ -1,4 +1,4 @@
-package PwStrength;
+package pwStrength;
 
 public class Strength_Analyzer {
 

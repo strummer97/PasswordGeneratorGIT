@@ -1,4 +1,4 @@
-package PasswordGenerator;
+package passwordGenerator;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package PwStrength;
+package pwStrength;
 
 import java.util.Scanner;
  public class Password_Reader {

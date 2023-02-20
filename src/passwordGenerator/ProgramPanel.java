@@ -1,7 +1,7 @@
-package PasswordGenerator;
+package passwordGenerator;
 
-import Sounds.Music;
-import Sounds.SoundFXs;
+import sounds.Music;
+import sounds.SoundFXs;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

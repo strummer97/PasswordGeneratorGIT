@@ -1,7 +1,6 @@
-package PwStrength;
+package pwStrength;
 
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 
 public class Word_Finder {
 
